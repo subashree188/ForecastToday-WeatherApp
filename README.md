@@ -3,4 +3,5 @@
 
 ![desktopview](desktopview.png)
 
-![mobileview](mobileview1.png) ![mobileview](mobileview2.png) ![mobileview](mobileview3.png)
+![mobileview](mobileview1.png) <br>
+![mobileview](mobileview2.png) ![mobileview](mobileview3.png)
